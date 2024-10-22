@@ -1,0 +1,67 @@
+.back{
+    background-image: url(./img/solar.webp);
+    /* background-repeat: repeat-y; */
+    /* color: white; */
+    
+}
+.buttons{
+    word-spacing:20px ;
+    position: relative;
+    left:400px; 
+}
+.images{
+    /* transform: translate(700px,-380px); */
+    position: relative;
+    left: 700px;
+    top: -350px;
+    border-radius: 30%;
+}
+.paragraph{
+    
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+p{
+    font-size: 18px;
+}
+a{
+    font-size: 20px;
+}
+
+/* cantact page code */
+#final{
+    /* border: 2px solid; */
+    height: 350px;
+    width: 100%;
+    background-image: url(./img/overlay.png);
+    position: relative;
+    top: 100px;
+}
+#final1{
+    /* border: 2px solid; */
+    height: 150px;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top: 50px;
+    
+}
+#final2{
+    /* border: 2px solid; */
+    height: 50px;
+    width: 60%;
+    margin-left: 100px;
+    color: #f0eded;
+}
+#final1 h1{
+    list-style: none;
+    display: flex;
+    justify-content: space-around; 
+}
+#final1 ol a i{
+    font-size: 40px;
+    justify-content: space-evenly;
+    text-decoration: none; 
+    color: white;
+}
